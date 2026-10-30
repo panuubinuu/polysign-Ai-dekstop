@@ -1,0 +1,22 @@
+{
+  "0": {"gesture_token": "hello", "en": "Hello", "mr": "नमस्कार", "hi": "नमस्ते", "ta": "வணக்கம்", "ur": "السلام علیکم", "emergency": false},
+  "1": {"gesture_token": "thank_you", "en": "Thank you", "mr": "धन्यवाद", "hi": "धन्यवाद", "ta": "நன்றி", "ur": "شکریہ", "emergency": false},
+  "2": {"gesture_token": "help", "en": "Help", "mr": "मदत करा", "hi": "मदद करो", "ta": "உதவி", "ur": "مدد", "emergency": true},
+  "3": {"gesture_token": "yes", "en": "Yes", "mr": "हो", "hi": "हाँ", "ta": "ஆம்", "ur": "ہاں", "emergency": false},
+  "4": {"gesture_token": "no", "en": "No", "mr": "नाही", "hi": "नहीं", "ta": "இல்லை", "ur": "نہیں", "emergency": false},
+  "5": {"gesture_token": "please", "en": "Please", "mr": "कृपया", "hi": "कृपया", "ta": "தயவுசெய்து", "ur": "براہ کرم", "emergency": false},
+  "6": {"gesture_token": "sorry", "en": "Sorry", "mr": "माफ करा", "hi": "माफ़ कीजिए", "ta": "மன்னிக்கவும்", "ur": "معذرت", "emergency": false},
+  "7": {"gesture_token": "water", "en": "Water", "mr": "पाणी", "hi": "पानी", "ta": "தண்ணீர்", "ur": "پانی", "emergency": false},
+  "8": {"gesture_token": "food", "en": "Food", "mr": "जेवण", "hi": "खाना", "ta": "உணவு", "ur": "کھانا", "emergency": false},
+  "9": {"gesture_token": "doctor", "en": "Doctor", "mr": "डॉक्टर", "hi": "डॉक्टर", "ta": "மருத்துவர்", "ur": "ڈاکٹر", "emergency": true},
+  "10": {"gesture_token": "good", "en": "Good", "mr": "चांगले", "hi": "अच्छा", "ta": "நல்லது", "ur": "اچھا", "emergency": false},
+  "11": {"gesture_token": "stop", "en": "Stop", "mr": "थांबा", "hi": "रुको", "ta": "நிறுத்து", "ur": "رکو", "emergency": false},
+  "12": {"gesture_token": "love", "en": "I Love You", "mr": "प्रेम", "hi": "प्यार", "ta": "அன்பு", "ur": "محبت", "emergency": false},
+  "13": {"gesture_token": "call", "en": "Call Me", "mr": "फोन करा", "hi": "फ़ोन करो", "ta": "அழைக்கவும்", "ur": "کال کریں", "emergency": false},
+  "14": {"gesture_token": "victory", "en": "Victory", "mr": "विजय", "hi": "जीत", "ta": "வெற்றி", "ur": "فتح", "emergency": false},
+  "15": {"gesture_token": "ok", "en": "OK", "mr": "ठीक आहे", "hi": "ठीक है", "ta": "சரி", "ur": "ٹھیک ہے", "emergency": false},
+  "16": {"gesture_token": "danger", "en": "Danger", "mr": "धोका", "hi": "खतरा", "ta": "ஆபத்து", "ur": "خطرہ", "emergency": true},
+  "17": {"gesture_token": "home", "en": "Home", "mr": "घर", "hi": "घर", "ta": "வீடு", "ur": "گھر", "emergency": false},
+  "18": {"gesture_token": "medicine", "en": "Medicine", "mr": "औषध", "hi": "दवाई", "ta": "மருந்து", "ur": "دوا", "emergency": true},
+  "19": {"gesture_token": "friend", "en": "Friend", "mr": "मित्र", "hi": "दोस्त", "ta": "நண்பன்", "ur": "دوست", "emergency": false}
+}

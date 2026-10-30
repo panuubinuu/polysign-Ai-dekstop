@@ -1,0 +1,10 @@
+numpy<2
+opencv-python
+mediapipe==0.10.14
+tensorflow==2.15.1
+scikit-learn
+streamlit
+streamlit-webrtc
+av
+gTTS
+Pillow
